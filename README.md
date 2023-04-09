@@ -11,6 +11,9 @@ This repository demonstrates how to train NARX and NARMAX for multi-step predict
 
 **NOTE: This repository is a work in progress. Also the training examples will be cleaned up in the future.**
 
+## Software Requirement:
+MATLAB R2018b and Deep Learning Toolbox Version 12.0.
+
 ## Project Layout:
 * **Training Files:**
 Contains examples for training NARX and NARMAX in MATLAB for time-series modeling on real-life data. Link to the training examples are shown below.
