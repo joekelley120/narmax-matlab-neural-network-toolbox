@@ -20,7 +20,7 @@ Contains examples for training NARX and NARMAX in MATLAB for time-series modelin
     | Training NARX on Mag-Lev Data Set: [**train_narx_maglev.m**](https://github.com/joekelley120/narmax-matlab-neural-network-toolbox/blob/master/train_narx_maglev.m) |
     | Training NARX on Servo-Motor Data Set: [**train_narx_servomotor.m**](https://github.com/joekelley120/narmax-matlab-neural-network-toolbox/blob/master/train_narx_servomotor.m) |
     | Training NARMAX on Mag-Lev Data Set: [**train_narmax_maglev.m**](https://github.com/joekelley120/narmax-matlab-neural-network-toolbox/blob/master/train_narmax_maglev.m) |
-    | Training NARMAX on Servo-Motor Data Set: [**train_narmax_servomotor**](https://github.com/joekelley120/narmax-matlab-neural-network-toolbox/blob/master/train_narx_servomotor.m) |
+    | Training NARMAX on Servo-Motor Data Set: [**train_narmax_servomotor**](https://github.com/joekelley120/narmax-matlab-neural-network-toolbox/blob/master/train_narmax_servomotor.m) |
 
 * **Models:**
 Contains MATLAB implementation of NARX and NARMAX models for time-series modeling. Link to the models are shown below.
