@@ -8,7 +8,6 @@ warning off MATLAB:subscripting:noSubscriptsSpecified
 delay = 8;
 neurons = 10;
 train_k = 100;
-train_o = 40;
 
 % import training data
 [u_pre, y_pre] = import_data_maglev();
