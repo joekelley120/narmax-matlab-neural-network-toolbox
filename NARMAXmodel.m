@@ -97,7 +97,7 @@ classdef NARMAXmodel
                 time_train = secs2hms(time);
 
                 if obj.writeToConsole
-                   fprintf('   Open Loop NARX Training - Time: %s\n', time_train)
+                   fprintf('   Open Loop NARMAX Training - Time: %s\n', time_train)
                 end
 
                 [obj.narmax] = obj.CreateOLNARMAX(narx, obj.u_pre, obj.y_pre, obj.delay, obj.neurons);
