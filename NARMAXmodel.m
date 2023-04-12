@@ -332,17 +332,6 @@ classdef NARMAXmodel
             u = obj.Unnormalize_U(cell2mat(u_fshift(obj.delay + 1:end))');
             
         end
-
-        function [y, u] = RandomTrainingData(obj)
-           
-            minimum = floor(length(obj.y) / 3);
-            if (minimum < 1); minimum = 1; end
-            index = randi([1 minimum], 1, 1);
-            maximum = index + floor(length(obj.y) * 2 / 3);
-            y = obj.y(index : maximum);
-            u = obj.u(index : maximum);
-            
-        end
         
     end
     
