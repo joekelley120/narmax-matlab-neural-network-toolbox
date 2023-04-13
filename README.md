@@ -16,7 +16,7 @@ MATLAB R2018b and Deep Learning Toolbox Version 12.0.
 
 ## Project Layout:
 * **Training Files:**
-Contains examples for training NARX and NARMAX in MATLAB for time-series modeling on real-life data. Link to the training examples are shown below.
+Contains examples for training NARX and NARMAX in MATLAB for time-series modeling on real-life data.
 
     | Example Files: | 
     | ------------- |
